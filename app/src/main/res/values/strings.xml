@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MySQLCRUD</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="designation">Designation</string>
+    <string name="salary">Salary</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="view_employee">View Employee</string>
+    <string name="title_activity_view_all_employee">ViewAllEmployee</string>
+    <string name="title_activity_view_employee">ViewEmployee</string>
+    <string name="categories">Categories</string>
+</resources>

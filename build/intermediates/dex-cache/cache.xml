@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\stephane\Desktop\MySQLCRUD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1eff90bd58f8400a3be583b52080b9da8febae6a">
+        <dex dex="C:\Users\stephane\Desktop\MySQLCRUD\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8367572e704f462c4a0158288e6fb4aeea1ed150.jar" />
+    </item>
+
+</items>
